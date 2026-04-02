@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ansible
+*.retry
+.ansible/
+*.log
+
+# Sensitive files
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+inventory_with_ips.ini
+
+# VS Code local settings
+.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pre-commit cache
+.cache/

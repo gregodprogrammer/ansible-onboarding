@@ -1,0 +1,5 @@
+exclude_paths:
+  - .venv/
+  - .git/
+  - .cache/
+warn_list: []

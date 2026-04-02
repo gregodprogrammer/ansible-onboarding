@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "ansible.python.interpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "ansibleLint.enabled": true,
+  "yaml.validate": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true
+}
