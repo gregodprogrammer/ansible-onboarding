@@ -202,3 +202,17 @@ init.defaultBranch = main
 
 - GitHub: [@gregodprogrammer](https://github.com/gregodprogrammer)
 - LinkedIn: [linkedin.com/in/gregodi](https://linkedin.com/in/gregodi)
+
+---
+
+## DMI Micro-Internship
+
+This project was completed as part of the **DevOps Micro-Internship (DMI) Cohort-2** program.
+
+| Detail | Info |
+|---|---|
+| Program | DevOps Micro-Internship (DMI) Cohort-2 |
+| Assignment | Assignment 1 — Ansible DevOps Workstation Onboarding |
+| Candidate | Greg Odi |
+| GitHub | [@gregodprogrammer](https://github.com/gregodprogrammer) |
+| LinkedIn | [linkedin.com/in/gregodi](https://linkedin.com/in/gregodi) |
